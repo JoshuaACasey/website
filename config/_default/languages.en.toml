@@ -11,16 +11,16 @@ title = "Joshua Casey - Digital Rights Activist and Video Game Streamer"
   dateFormat = "January 2 2006"
   logo = "/android-chrome-512x512.png"
   secondaryLogo = "https://sharex.dftba.xyz/profilepic.jpg"
-  description = "Joshua is an autistic nerd, video game streamer and digital rights activist that is passionate about human rights, free speech, anti-censorship, privacy, autistic people’s rights, sex worker’s rights, criminal punishment system reform, prevention of sexual abuse, and climate change and generally just making the world a better place for those of us that aren't billionaires 😆"
-  # copyright = ""© 2013-2026, Joshua Casey, All Rights Reserved""
+  description = "Joshua is a nerdy video game streamer and is passionate about human rights, free speech, and anti-censorship."
+  copyright = "© 2013-2026, Joshua Casey, All Rights Reserved"
 
 [params.author]
   name = "Joshua Casey"
   email = "joshua@joshuacasey.net"
-#   image = "img/blowfish_logo.png"
+  #image = "profilepic.jpg"
 #   imageQuality = 96
   headline = "Digital Rights Activist and Video Game Streamer"
-#   bio = "Joshua is a nerdy video game streamer and is passionate about human rights, free speech, and anti-censorship."
+  bio = "Joshua is a nerdy video game streamer and is passionate about human rights, free speech, and anti-censorship."
   links = [
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
