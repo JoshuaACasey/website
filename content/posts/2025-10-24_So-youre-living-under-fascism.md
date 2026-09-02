@@ -13,7 +13,7 @@ tags:
 params:
   author: Joshua Casey
 include_toc: true
-show_comments: true
+show_comments: false
 #hiddenFromHomePage: false
 ---
 

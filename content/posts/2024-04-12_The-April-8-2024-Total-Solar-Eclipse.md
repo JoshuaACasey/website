@@ -7,7 +7,7 @@ title: The April 8 2024 Total Solar Eclipse
 category: personal
 tags:
 - personal
-showComments: true
+showComments: false
 #banner: "https://sharex.dftba.xyz/profilepic.jpg"
 ---
 
