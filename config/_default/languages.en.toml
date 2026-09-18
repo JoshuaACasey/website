@@ -12,7 +12,7 @@ title = "Joshua Casey - Video Game Streamer and Human Rights Advocate"
   logo = "/android-chrome-512x512.png"
   secondaryLogo = "https://sharex.dftba.xyz/profilepic.jpg"
   description = "Joshua is a nerdy video game streamer and is passionate about human rights, free speech, and anti-censorship."
-  keywords = "joshua casey, video game streamer, nerdy streamer, free speech, human rights, anti-censorship, anti-fascist"
+  keywords = ['joshua casey', 'video game streamer', 'nerdy streamer', 'free speech', 'human rights', 'anti-censorship', 'anti-fascist']
   copyright = "© 2013-2026, Joshua Casey, All Rights Reserved"
 
 [params.author]
