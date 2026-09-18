@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Joshua Casey - Digital Rights Activist and Video Game Streamer"
+title = "Joshua Casey - Video Game Streamer and Human Rights Advocate"
 
 [params]
   displayName = "EN"
@@ -12,6 +12,7 @@ title = "Joshua Casey - Digital Rights Activist and Video Game Streamer"
   logo = "/android-chrome-512x512.png"
   secondaryLogo = "https://sharex.dftba.xyz/profilepic.jpg"
   description = "Joshua is a nerdy video game streamer and is passionate about human rights, free speech, and anti-censorship."
+  keywords = "joshua casey, video game streamer, nerdy streamer, free speech, human rights, anti-censorship, anti-fascist, 
   copyright = "© 2013-2026, Joshua Casey, All Rights Reserved"
 
 [params.author]
@@ -19,7 +20,7 @@ title = "Joshua Casey - Digital Rights Activist and Video Game Streamer"
   email = "joshua@joshuacasey.net"
   #image = "profilepic.jpg"
 #   imageQuality = 96
-  headline = "Digital Rights Activist and Video Game Streamer"
+  headline = "Video Game Streamer and Human Rights Advocate"
   bio = "Joshua is a nerdy video game streamer and is passionate about human rights, free speech, and anti-censorship."
   links = [
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
