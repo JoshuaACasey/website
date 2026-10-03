@@ -13,7 +13,7 @@ slug: "subscribe"
 
 There's a multitude of different ways that you can share your generously show your support.
 
-## Subscribe on Twitch.tv
+## Subscribe on [Twitch.tv](https://twitch.tv/JoshuaACasey)
 Below is a list of Twitch subscriber perks:
 
 - Generously & kindly supports me!
@@ -24,21 +24,26 @@ Below is a list of Twitch subscriber perks:
 
 [Subscribe here](https://twitch.tv/JoshuaACasey/subscribe)
 
-## You can also get me a gift from my wishlist
-- [Get me something from my wishlist.](https://throne.me/u/joshuaacasey)
+## Check out my wishlists
 
-## I'm a Proton Partner
-- [Proton Mail: It's time to ditch Gmail with an email provider that isn't spying on you](https://go.getproton.me/SH1pt)
-- [Proton VPN: Get around censorship by using a VPN](https://go.getproton.me/SH1pq)
-- [Proton Drive: Protect those precious family photos & files](https://go.getproton.me/SH1pz)
-- [Proton Pass: Securing your passwords should be your #1 priority](https://go.getproton.me/SH1pf)
+- [Get me something from my wishlist.](https://throne.me/u/joshuaacasey)
+- [Get me something from my Steam wishlist.](https://store.steampowered.com/wishlist/id/JoshuaACasey)
+
+## Referral Links
+### Proton
+I'm a Proton Partner. You should de-google your life and use Proton's apps.
+
+- [Proton Mail: It's time to ditch Gmail with an email provider that isn't spying on you](https://go.getproton.me/SH1pu)
+- [Proton VPN: Get around censorship by using a VPN](https://go.getproton.me/SH1ps)
+- [Proton Drive: Protect those precious family photos & files](https://go.getproton.me/SH1pc)
+- [Proton Pass: Securing your passwords should be your #1 priority](https://go.getproton.me/SH1ph)
 - [Proton Lumo: Private AI that isn't trained on your data](https://go.getproton.me/SH2rI)
-- [Proton Unlimited: Subscribe to Proton Unlimited](https://go.getproton.me/SH1pw)
 - [Proton WorkSpace: It's time to get your business off of Google Workspace and take back your privacy](https://go.getproton.me/SH2rH)
 
-## Finally, you can use one of my other referral links
+### Cell phone provider
+Cell phone service shouldn't cost an arm & a leg. I'm super happy with my extremely affordable cell phone service provider.
 
-- [Tello - my cell phone provider that is ridiculously affordable](https://tello.com/account/register?_referral=P32D5RGD)
+- [Tello](https://tello.com/account/register?_referral=P32D5RGD)
 
 <!-- - [Become a Joystick.tv streamer](https://joystick.tv/t/u/joshuaacasey?t=1797a72c)
 
