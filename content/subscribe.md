@@ -7,8 +7,8 @@ sharingLinks: false
 showReadingTime: false
 showWordCount: false
 showComments: false
-aliases: ["sub","donate", "support"]
-slug: "subscribe"
+aliases: ["sub","donate", "subscribe"]
+slug: "support"
 ---
 
 There's a multitude of different ways that you can share your generously show your support.

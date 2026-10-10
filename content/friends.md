@@ -6,7 +6,7 @@ sharingLinks: false
 showReadingTime: false
 showWordCount: false
 showComments: false
-#aliases: "about-me"
+aliases: "my-friends"
 slug: "friends"
 show_comments: false
 ---
@@ -27,4 +27,4 @@ Bunny is my very best friend of all time. We've known each other since early 202
 
 Layla is an incredibly sweet and kind 17-year-old tiktoker bravely talking about her experiences with how horribly her adoptive family treats and abuses her. She deserves your support and you should definitely give her a follow and share her videos -- let's help her reach her goal of hitting 100k followers, she's so incredibly close. She already has 71k followers.
 
-- Tiktok: https://www.tiktok.com/@yk_layla180 (unfortunately deleted because she was afraid her adoptive parents would find it. Sadly she won't be reaching her goal of 100k followers)
+- Tiktok: https://www.tiktok.com/@yk_layla180 (unfortunately deleted because she was afraid her abusive adoptive parents would find it. Sadly she won't be reaching her goal of 100k followers)
