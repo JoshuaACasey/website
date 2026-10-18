@@ -28,9 +28,9 @@ slug: "my-tech"
 - **Mouse**: [Logitech G Pro X Superlight Wireless Gaming Mouse](https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005878.html)
 - **Webcam**: [Elgato Facecam MK.2](https://www.elgato.com/us/en/p/facecam-mk2)
 - **Peripherals**: [Elgato Stream Deck Plus](https://www.elgato.com/us/en/p/stream-deck-plus) with [USB Hub](https://www.elgato.com/us/en/p/usb-hub-stream-deck-plus)
-- **OS**: Dual boot Windows 11 Home 64-bit and [CachyOS](https://cachyos.org)
+- **OS**: Dual boot Windows 11 Home 64-bit and [Fedora KDE](https://fedoraproject.org/kde/) running the [CachyOS kernel](https://wiki.cachyos.org/features/kernel/)
 - **SSD 1**: 2TB NVME SSD (Windows 11)
-- **SSD 2**: 2TB NVME SSD (Linux - CachyOS)
+- **SSD 2**: 2TB NVME SSD (Linux - Fedora)
 - **SSD 3**: 4TB NVME SSD (Game Install Drive)
 - **SSD 4**: 1TB SATA SSD (extra storage)
 
